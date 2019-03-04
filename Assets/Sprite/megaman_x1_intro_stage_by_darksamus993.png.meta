@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: ab40a851afec58c4fb1cfc4729d08ce3
+timeCreated: 1550855569
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman_x1_intro_stage_by_darksamus993_0
+    21300002: megaman_x1_intro_stage_by_darksamus993_1
+    21300004: megaman_x1_intro_stage_by_darksamus993_2
+    21300006: megaman_x1_intro_stage_by_darksamus993_3
+    21300008: megaman_x1_intro_stage_by_darksamus993_4
+    21300010: megaman_x1_intro_stage_by_darksamus993_5
+    21300012: megaman_x1_intro_stage_by_darksamus993_6
+    21300014: megaman_x1_intro_stage_by_darksamus993_7
+    21300016: megaman_x1_intro_stage_by_darksamus993_8
+    21300018: megaman_x1_intro_stage_by_darksamus993_9
+    21300020: megaman_x1_intro_stage_by_darksamus993_10
+    21300022: megaman_x1_intro_stage_by_darksamus993_11
+    21300024: megaman_x1_intro_stage_by_darksamus993_12
+    21300026: megaman_x1_intro_stage_by_darksamus993_13
+    21300028: megaman_x1_intro_stage_by_darksamus993_14
+    21300030: megaman_x1_intro_stage_by_darksamus993_15
+    21300032: megaman_x1_intro_stage_by_darksamus993_16
+    21300034: megaman_x1_intro_stage_by_darksamus993_17
+    21300036: megaman_x1_intro_stage_by_darksamus993_18
+    21300038: megaman_x1_intro_stage_by_darksamus993_19
+    21300040: megaman_x1_intro_stage_by_darksamus993_20
+    21300042: megaman_x1_intro_stage_by_darksamus993_21
+    21300044: megaman_x1_intro_stage_by_darksamus993_22
+    21300046: megaman_x1_intro_stage_by_darksamus993_23
+    21300048: megaman_x1_intro_stage_by_darksamus993_24
+    21300050: megaman_x1_intro_stage_by_darksamus993_25
+    21300052: megaman_x1_intro_stage_by_darksamus993_26
+    21300054: megaman_x1_intro_stage_by_darksamus993_27
+    21300056: megaman_x1_intro_stage_by_darksamus993_28
+    21300058: megaman_x1_intro_stage_by_darksamus993_29
+    21300060: megaman_x1_intro_stage_by_darksamus993_30
+    21300062: megaman_x1_intro_stage_by_darksamus993_31
+    21300064: megaman_x1_intro_stage_by_darksamus993_32
+    21300066: megaman_x1_intro_stage_by_darksamus993_33
+    21300068: megaman_x1_intro_stage_by_darksamus993_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 620
+        width: 807
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 620
+        width: 512
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_2
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 620
+        width: 1049
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_3
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 381
+        width: 528
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_4
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 381
+        width: 96
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_5
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 381
+        width: 784
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_6
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 620
+        width: 537
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_7
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 620
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_8
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 620
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_9
+      rect:
+        serializedVersion: 2
+        x: 4572
+        y: 620
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_10
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 620
+        width: 48
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_11
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 620
+        width: 1401
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_12
+      rect:
+        serializedVersion: 2
+        x: 6236
+        y: 620
+        width: 1448
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_13
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 511
+        width: 288
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_14
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 546
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_15
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 546
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_16
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 546
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_17
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 546
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_18
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 546
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_19
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 546
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_20
+      rect:
+        serializedVersion: 2
+        x: 4796
+        y: 546
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_21
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_22
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_23
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_24
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 477
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_25
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_26
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_27
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_28
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 411
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_29
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 417
+        width: 222
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_30
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 428
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_31
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 428
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_32
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 428
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 3545
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman_x1_intro_stage_by_darksamus993_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 135
+        width: 1219
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

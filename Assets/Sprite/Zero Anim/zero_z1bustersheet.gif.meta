@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: c1722b42ffcf01d4baed13e097835467
+timeCreated: 1551294399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zero_z1bustersheet_0
+    21300002: zero_z1bustersheet_1
+    21300004: zero_z1bustersheet_2
+    21300006: zero_z1bustersheet_3
+    21300008: zero_z1bustersheet_4
+    21300010: zero_z1bustersheet_5
+    21300012: zero_z1bustersheet_6
+    21300014: zero_z1bustersheet_7
+    21300016: zero_z1bustersheet_8
+    21300018: zero_z1bustersheet_9
+    21300020: zero_z1bustersheet_10
+    21300022: zero_z1bustersheet_11
+    21300024: zero_z1bustersheet_12
+    21300026: zero_z1bustersheet_13
+    21300028: zero_z1bustersheet_14
+    21300030: zero_z1bustersheet_15
+    21300032: zero_z1bustersheet_16
+    21300034: zero_z1bustersheet_17
+    21300036: zero_z1bustersheet_18
+    21300038: zero_z1bustersheet_19
+    21300040: zero_z1bustersheet_20
+    21300042: zero_z1bustersheet_21
+    21300044: zero_z1bustersheet_22
+    21300046: zero_z1bustersheet_23
+    21300048: zero_z1bustersheet_24
+    21300050: zero_z1bustersheet_25
+    21300052: zero_z1bustersheet_26
+    21300054: zero_z1bustersheet_27
+    21300056: zero_z1bustersheet_28
+    21300058: zero_z1bustersheet_29
+    21300060: zero_z1bustersheet_30
+    21300062: zero_z1bustersheet_31
+    21300064: zero_z1bustersheet_32
+    21300066: zero_z1bustersheet_33
+    21300068: zero_z1bustersheet_34
+    21300070: zero_z1bustersheet_35
+    21300072: zero_z1bustersheet_36
+    21300074: zero_z1bustersheet_37
+    21300076: zero_z1bustersheet_38
+    21300078: zero_z1bustersheet_39
+    21300080: zero_z1bustersheet_40
+    21300082: zero_z1bustersheet_41
+    21300084: zero_z1bustersheet_42
+    21300086: zero_z1bustersheet_43
+    21300088: zero_z1bustersheet_44
+    21300090: zero_z1bustersheet_45
+    21300092: zero_z1bustersheet_46
+    21300094: zero_z1bustersheet_47
+    21300096: zero_z1bustersheet_48
+    21300098: zero_z1bustersheet_49
+    21300100: zero_z1bustersheet_50
+    21300102: zero_z1bustersheet_51
+    21300104: zero_z1bustersheet_52
+    21300106: zero_z1bustersheet_53
+    21300108: zero_z1bustersheet_54
+    21300110: zero_z1bustersheet_55
+    21300112: zero_z1bustersheet_56
+    21300114: zero_z1bustersheet_57
+    21300116: zero_z1bustersheet_58
+    21300118: zero_z1bustersheet_59
+    21300120: zero_z1bustersheet_60
+    21300122: zero_z1bustersheet_61
+    21300124: zero_z1bustersheet_62
+    21300126: zero_z1bustersheet_63
+    21300128: zero_z1bustersheet_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_z1bustersheet_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 370
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 370
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 370
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.365, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 316
+        width: 49
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 316
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 316
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 312
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 312
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 312
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 312
+        width: 49
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 312
+        width: 47
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 312
+        width: 47
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 263
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 263
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 263
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 263
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 263
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 263
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 44
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 263
+        width: 44
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 265
+        width: 49
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 265
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 265
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 217
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 217
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 217
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 218
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 218
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 218
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 217
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 217
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 217
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 217
+        width: 45
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 217
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 217
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 169
+        width: 45
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 169
+        width: 49
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 169
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_42
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 169
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 49
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 169
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 169
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 122
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 122
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 122
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 122
+        width: 51
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 122
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 122
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 74
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 74
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 74
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_55
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 74
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 74
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 74
+        width: 47
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 13
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 40
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 7
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zero_z1bustersheet_64
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 7
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3032 @@
+fileFormatVersion: 2
+guid: 41675ec09c20d994bb045bef724752ec
+timeCreated: 1548860420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmz4_gunweaponsbweapons_0
+    21300002: mmz4_gunweaponsbweapons_1
+    21300004: mmz4_gunweaponsbweapons_2
+    21300006: mmz4_gunweaponsbweapons_3
+    21300008: mmz4_gunweaponsbweapons_4
+    21300010: mmz4_gunweaponsbweapons_5
+    21300012: mmz4_gunweaponsbweapons_6
+    21300014: mmz4_gunweaponsbweapons_7
+    21300016: mmz4_gunweaponsbweapons_8
+    21300018: mmz4_gunweaponsbweapons_9
+    21300020: mmz4_gunweaponsbweapons_10
+    21300022: mmz4_gunweaponsbweapons_11
+    21300024: mmz4_gunweaponsbweapons_12
+    21300026: mmz4_gunweaponsbweapons_13
+    21300028: mmz4_gunweaponsbweapons_14
+    21300030: mmz4_gunweaponsbweapons_15
+    21300032: mmz4_gunweaponsbweapons_16
+    21300034: mmz4_gunweaponsbweapons_17
+    21300036: mmz4_gunweaponsbweapons_18
+    21300038: mmz4_gunweaponsbweapons_19
+    21300040: mmz4_gunweaponsbweapons_20
+    21300042: mmz4_gunweaponsbweapons_21
+    21300044: mmz4_gunweaponsbweapons_22
+    21300046: mmz4_gunweaponsbweapons_23
+    21300048: mmz4_gunweaponsbweapons_24
+    21300050: mmz4_gunweaponsbweapons_25
+    21300052: mmz4_gunweaponsbweapons_26
+    21300054: mmz4_gunweaponsbweapons_27
+    21300056: mmz4_gunweaponsbweapons_28
+    21300058: mmz4_gunweaponsbweapons_29
+    21300060: mmz4_gunweaponsbweapons_30
+    21300062: mmz4_gunweaponsbweapons_31
+    21300064: mmz4_gunweaponsbweapons_32
+    21300066: mmz4_gunweaponsbweapons_33
+    21300068: mmz4_gunweaponsbweapons_34
+    21300070: mmz4_gunweaponsbweapons_35
+    21300072: mmz4_gunweaponsbweapons_36
+    21300074: mmz4_gunweaponsbweapons_37
+    21300076: mmz4_gunweaponsbweapons_38
+    21300078: mmz4_gunweaponsbweapons_39
+    21300080: mmz4_gunweaponsbweapons_40
+    21300082: mmz4_gunweaponsbweapons_41
+    21300084: mmz4_gunweaponsbweapons_42
+    21300086: mmz4_gunweaponsbweapons_43
+    21300088: mmz4_gunweaponsbweapons_44
+    21300090: mmz4_gunweaponsbweapons_45
+    21300092: mmz4_gunweaponsbweapons_46
+    21300094: mmz4_gunweaponsbweapons_47
+    21300096: mmz4_gunweaponsbweapons_48
+    21300098: mmz4_gunweaponsbweapons_49
+    21300100: mmz4_gunweaponsbweapons_50
+    21300102: mmz4_gunweaponsbweapons_51
+    21300104: mmz4_gunweaponsbweapons_52
+    21300106: mmz4_gunweaponsbweapons_53
+    21300108: mmz4_gunweaponsbweapons_54
+    21300110: mmz4_gunweaponsbweapons_55
+    21300112: mmz4_gunweaponsbweapons_56
+    21300114: mmz4_gunweaponsbweapons_57
+    21300116: mmz4_gunweaponsbweapons_58
+    21300118: mmz4_gunweaponsbweapons_59
+    21300120: mmz4_gunweaponsbweapons_60
+    21300122: mmz4_gunweaponsbweapons_61
+    21300124: mmz4_gunweaponsbweapons_62
+    21300126: mmz4_gunweaponsbweapons_63
+    21300128: mmz4_gunweaponsbweapons_64
+    21300130: mmz4_gunweaponsbweapons_65
+    21300132: mmz4_gunweaponsbweapons_66
+    21300134: mmz4_gunweaponsbweapons_67
+    21300136: mmz4_gunweaponsbweapons_68
+    21300138: mmz4_gunweaponsbweapons_69
+    21300140: mmz4_gunweaponsbweapons_70
+    21300142: mmz4_gunweaponsbweapons_71
+    21300144: mmz4_gunweaponsbweapons_72
+    21300146: mmz4_gunweaponsbweapons_73
+    21300148: mmz4_gunweaponsbweapons_74
+    21300150: mmz4_gunweaponsbweapons_75
+    21300152: mmz4_gunweaponsbweapons_76
+    21300154: mmz4_gunweaponsbweapons_77
+    21300156: mmz4_gunweaponsbweapons_78
+    21300158: mmz4_gunweaponsbweapons_79
+    21300160: mmz4_gunweaponsbweapons_80
+    21300162: mmz4_gunweaponsbweapons_81
+    21300164: mmz4_gunweaponsbweapons_82
+    21300166: mmz4_gunweaponsbweapons_83
+    21300168: mmz4_gunweaponsbweapons_84
+    21300170: mmz4_gunweaponsbweapons_85
+    21300172: mmz4_gunweaponsbweapons_86
+    21300174: mmz4_gunweaponsbweapons_87
+    21300176: mmz4_gunweaponsbweapons_88
+    21300178: mmz4_gunweaponsbweapons_89
+    21300180: mmz4_gunweaponsbweapons_90
+    21300182: mmz4_gunweaponsbweapons_91
+    21300184: mmz4_gunweaponsbweapons_92
+    21300186: mmz4_gunweaponsbweapons_93
+    21300188: mmz4_gunweaponsbweapons_94
+    21300190: mmz4_gunweaponsbweapons_95
+    21300192: mmz4_gunweaponsbweapons_96
+    21300194: mmz4_gunweaponsbweapons_97
+    21300196: mmz4_gunweaponsbweapons_98
+    21300198: mmz4_gunweaponsbweapons_99
+    21300200: mmz4_gunweaponsbweapons_100
+    21300202: mmz4_gunweaponsbweapons_101
+    21300204: mmz4_gunweaponsbweapons_102
+    21300206: mmz4_gunweaponsbweapons_103
+    21300208: mmz4_gunweaponsbweapons_104
+    21300210: mmz4_gunweaponsbweapons_105
+    21300212: mmz4_gunweaponsbweapons_106
+    21300214: mmz4_gunweaponsbweapons_107
+    21300216: mmz4_gunweaponsbweapons_108
+    21300218: mmz4_gunweaponsbweapons_109
+    21300220: mmz4_gunweaponsbweapons_110
+    21300222: mmz4_gunweaponsbweapons_111
+    21300224: mmz4_gunweaponsbweapons_112
+    21300226: mmz4_gunweaponsbweapons_113
+    21300228: mmz4_gunweaponsbweapons_114
+    21300230: mmz4_gunweaponsbweapons_115
+    21300232: mmz4_gunweaponsbweapons_116
+    21300234: mmz4_gunweaponsbweapons_117
+    21300236: mmz4_gunweaponsbweapons_118
+    21300238: mmz4_gunweaponsbweapons_119
+    21300240: mmz4_gunweaponsbweapons_120
+    21300242: mmz4_gunweaponsbweapons_121
+    21300244: mmz4_gunweaponsbweapons_122
+    21300246: mmz4_gunweaponsbweapons_123
+    21300248: mmz4_gunweaponsbweapons_124
+    21300250: mmz4_gunweaponsbweapons_125
+    21300252: mmz4_gunweaponsbweapons_126
+    21300254: mmz4_gunweaponsbweapons_127
+    21300256: mmz4_gunweaponsbweapons_128
+    21300258: mmz4_gunweaponsbweapons_129
+    21300260: mmz4_gunweaponsbweapons_130
+    21300262: mmz4_gunweaponsbweapons_131
+    21300264: mmz4_gunweaponsbweapons_132
+    21300266: mmz4_gunweaponsbweapons_133
+    21300268: mmz4_gunweaponsbweapons_134
+    21300270: mmz4_gunweaponsbweapons_135
+    21300272: mmz4_gunweaponsbweapons_136
+    21300274: mmz4_gunweaponsbweapons_137
+    21300276: mmz4_gunweaponsbweapons_138
+    21300278: mmz4_gunweaponsbweapons_139
+    21300280: mmz4_gunweaponsbweapons_140
+    21300282: mmz4_gunweaponsbweapons_141
+    21300284: mmz4_gunweaponsbweapons_142
+    21300286: mmz4_gunweaponsbweapons_143
+    21300288: mmz4_gunweaponsbweapons_144
+    21300290: mmz4_gunweaponsbweapons_145
+    21300292: mmz4_gunweaponsbweapons_146
+    21300294: mmz4_gunweaponsbweapons_147
+    21300296: mmz4_gunweaponsbweapons_148
+    21300298: mmz4_gunweaponsbweapons_149
+    21300300: mmz4_gunweaponsbweapons_150
+    21300302: mmz4_gunweaponsbweapons_151
+    21300304: mmz4_gunweaponsbweapons_152
+    21300306: mmz4_gunweaponsbweapons_153
+    21300308: mmz4_gunweaponsbweapons_154
+    21300310: mmz4_gunweaponsbweapons_155
+    21300312: mmz4_gunweaponsbweapons_156
+    21300314: mmz4_gunweaponsbweapons_157
+    21300316: mmz4_gunweaponsbweapons_158
+    21300318: mmz4_gunweaponsbweapons_159
+    21300320: mmz4_gunweaponsbweapons_160
+    21300322: mmz4_gunweaponsbweapons_161
+    21300324: mmz4_gunweaponsbweapons_162
+    21300326: mmz4_gunweaponsbweapons_163
+    21300328: mmz4_gunweaponsbweapons_164
+    21300330: mmz4_gunweaponsbweapons_165
+    21300332: mmz4_gunweaponsbweapons_166
+    21300334: mmz4_gunweaponsbweapons_167
+    21300336: mmz4_gunweaponsbweapons_168
+    21300338: mmz4_gunweaponsbweapons_169
+    21300340: mmz4_gunweaponsbweapons_170
+    21300342: mmz4_gunweaponsbweapons_171
+    21300344: mmz4_gunweaponsbweapons_172
+    21300346: mmz4_gunweaponsbweapons_173
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 1}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 708
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 709
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 709
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 712
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 712
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 710
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 695
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 695
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 659
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 661
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 659
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 659
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 659
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 660
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 645
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 645
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 626
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 627
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 630
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 630
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 628
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 613
+        width: 84
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 613
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 595
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 595
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 595
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 595
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_28
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 582
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 561
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 561
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 563
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 561
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 560
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 561
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 567
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 547
+        width: 100
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 528
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 528
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 528
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 528
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 528
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_42
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 528
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 528
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 515
+        width: 124
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 493
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 493
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_47
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 499
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 499
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 497
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 480
+        width: 100
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 480
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 461
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_54
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 461
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_55
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 465
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 465
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 463
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_58
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 448
+        width: 92
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 448
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 421
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 419
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 421
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 424
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 424
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 421
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 421
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 421
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 422
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 422
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_72
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 404
+        width: 92
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 389
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_75
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 387
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 390
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_77
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 386
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 388
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 390
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_80
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 391
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_81
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 391
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 374
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_83
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 357
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 355
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 359
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_86
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 359
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_87
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 357
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_88
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 342
+        width: 109
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_89
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 342
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_90
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 323
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_91
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 323
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 327
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 323
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 323
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 322
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 322
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_99
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 324
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_101
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 322
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_102
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 309
+        width: 117
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 309
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_104
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 283
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_105
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 284
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_106
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 287
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_109
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_110
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 271
+        width: 125
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_111
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 254
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_112
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 252
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_113
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 251
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_114
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 255
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_115
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 251
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_116
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 251
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_117
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 251
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_118
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 255
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_119
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 255
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_120
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 238
+        width: 91
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_121
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 238
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 208
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_123
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 207
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_125
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 206
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 206
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_127
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_128
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_129
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_130
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 219
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_132
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 219
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_133
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 219
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_134
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 219
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_135
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 211
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_136
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_137
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 211
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_138
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_140
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_141
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_142
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 207
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_143
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 191
+        width: 117
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_144
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 162
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_145
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 174
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_146
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 162
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_147
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_148
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_149
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_150
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 155
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_151
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 142
+        width: 116
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_153
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 116
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_154
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 116
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_155
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 117
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_156
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_157
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 118
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_158
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 116
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 116
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_160
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 115
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_161
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 115
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 125
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_163
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 84
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_164
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_165
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_166
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_167
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 86
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_168
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 117
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_170
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_171
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 33
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_172
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz4_gunweaponsbweapons_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 108
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 44, y: -294.5}
+      - {x: -6, y: -304.5}
+      - {x: -43, y: -327.5}
+      - {x: -43, y: -364.5}
+      - {x: 79, y: -364.5}
+      - {x: 79, y: -294.5}
+    - - {x: -51, y: -313.5}
+      - {x: -51, y: -333.5}
+      - {x: 25, y: -333.5}
+      - {x: 25, y: -318.5}
+      - {x: 21, y: -313.5}
+    - - {x: -13, y: -280.5}
+      - {x: 2, y: -280.5}
+      - {x: 7, y: -276.5}
+      - {x: 10, y: -279.5}
+      - {x: 13, y: -280.5}
+      - {x: 17, y: -280.5}
+      - {x: 22, y: -276.5}
+      - {x: 25, y: -279.5}
+      - {x: 28, y: -280.5}
+      - {x: 32, y: -280.5}
+      - {x: 37, y: -276.5}
+      - {x: 40, y: -279.5}
+      - {x: 43, y: -280.5}
+      - {x: 47, y: -280.5}
+      - {x: 52, y: -277.5}
+      - {x: 54, y: -269.5}
+      - {x: 47, y: -263.5}
+      - {x: 43, y: -264.5}
+      - {x: 27, y: -263.5}
+      - {x: 76, y: -263.5}
+      - {x: 95, y: -268.5}
+      - {x: 97, y: -263.5}
+      - {x: 97, y: -229.5}
+      - {x: -94, y: -229.5}
+      - {x: -115, y: -233.5}
+      - {x: -115, y: -258.5}
+      - {x: -49, y: -294.5}
+      - {x: 73, y: -294.5}
+      - {x: 75, y: -292.5}
+      - {x: 75, y: -282.5}
+      - {x: 73, y: -280.5}
+    - - {x: 124, y: -244.5}
+      - {x: 122, y: -248.5}
+      - {x: 123, y: -251.5}
+      - {x: 129, y: -251.5}
+      - {x: 133, y: -248.5}
+      - {x: 133, y: -244.5}
+    - - {x: 105, y: -247.5}
+      - {x: 105, y: -248.5}
+      - {x: 107, y: -250.5}
+      - {x: 111, y: -250.5}
+      - {x: 113, y: -248.5}
+      - {x: 112, y: -245.5}
+      - {x: 108, y: -244.5}
+    - - {x: 137, y: -244.5}
+      - {x: 133, y: -247.5}
+      - {x: 134, y: -250.5}
+      - {x: 139, y: -250.5}
+      - {x: 141, y: -248.5}
+      - {x: 141, y: -247.5}
+      - {x: 138, y: -244.5}
+    - - {x: 115, y: -246.5}
+      - {x: 116, y: -249.5}
+      - {x: 119, y: -249.5}
+      - {x: 121, y: -247.5}
+      - {x: 120, y: -244.5}
+      - {x: 117, y: -244.5}
+    - - {x: 80, y: -238.5}
+      - {x: 83, y: -237.5}
+      - {x: 83, y: -234.5}
+      - {x: 80, y: -233.5}
+      - {x: 78, y: -235.5}
+    - - {x: 49, y: -235.5}
+      - {x: 52, y: -234.5}
+      - {x: 52, y: -231.5}
+      - {x: 49, y: -230.5}
+      - {x: 47, y: -232.5}
+    - - {x: -13, y: -210.5}
+      - {x: -8, y: -210.5}
+      - {x: -5, y: -209.5}
+      - {x: -2, y: -204.5}
+      - {x: -3, y: -195.5}
+      - {x: -6, y: -194.5}
+      - {x: -11, y: -194.5}
+      - {x: -6, y: -192.5}
+      - {x: -3, y: -191.5}
+      - {x: -1, y: -184.5}
+      - {x: -2, y: -175.5}
+      - {x: -45, y: -175.5}
+      - {x: -47, y: -177.5}
+      - {x: -47, y: -224.5}
+      - {x: 73, y: -224.5}
+      - {x: 73, y: -211.5}
+      - {x: 71, y: -210.5}
+    - - {x: 11, y: -182.5}
+      - {x: -1, y: -182.5}
+      - {x: -4, y: -184.5}
+      - {x: -4, y: -203.5}
+      - {x: -3, y: -204.5}
+      - {x: 34, y: -204.5}
+      - {x: 47, y: -203.5}
+      - {x: 55, y: -198.5}
+      - {x: 55, y: -191.5}
+      - {x: 53, y: -184.5}
+    - - {x: -48, y: -161.5}
+      - {x: -48, y: -175.5}
+      - {x: 73, y: -175.5}
+      - {x: 73, y: -161.5}
+    - - {x: -68, y: -138.5}
+      - {x: -118, y: -138.5}
+      - {x: -118, y: -158.5}
+      - {x: -117, y: -160.5}
+      - {x: -79, y: -160.5}
+      - {x: -66, y: -157.5}
+      - {x: -65, y: -154.5}
+      - {x: -65, y: -141.5}
+    - - {x: 16, y: -148.5}
+      - {x: 13, y: -151.5}
+      - {x: 13, y: -157.5}
+      - {x: 16, y: -160.5}
+      - {x: 23, y: -160.5}
+      - {x: 25, y: -158.5}
+      - {x: 25, y: -150.5}
+      - {x: 23, y: -148.5}
+    - - {x: 28, y: -148.5}
+      - {x: 26, y: -150.5}
+      - {x: 26, y: -158.5}
+      - {x: 28, y: -160.5}
+      - {x: 36, y: -160.5}
+      - {x: 38, y: -158.5}
+      - {x: 38, y: -150.5}
+      - {x: 36, y: -148.5}
+    - - {x: 41, y: -148.5}
+      - {x: 39, y: -150.5}
+      - {x: 39, y: -159.5}
+      - {x: 43, y: -160.5}
+      - {x: 51, y: -160.5}
+      - {x: 51, y: -150.5}
+      - {x: 49, y: -148.5}
+    - - {x: -134, y: -138.5}
+      - {x: -136, y: -137.5}
+      - {x: -150, y: -137.5}
+      - {x: -151, y: -142.5}
+      - {x: -151, y: -156.5}
+      - {x: -146, y: -159.5}
+      - {x: -138, y: -159.5}
+      - {x: -131, y: -151.5}
+      - {x: -131, y: -146.5}
+    - - {x: 55, y: -147.5}
+      - {x: 52, y: -150.5}
+      - {x: 52, y: -156.5}
+      - {x: 55, y: -159.5}
+      - {x: 79, y: -159.5}
+      - {x: 82, y: -156.5}
+      - {x: 82, y: -150.5}
+      - {x: 79, y: -147.5}
+    - - {x: -166, y: -140.5}
+      - {x: -166, y: -156.5}
+      - {x: -165, y: -158.5}
+      - {x: -156, y: -158.5}
+      - {x: -151, y: -151.5}
+      - {x: -151, y: -145.5}
+      - {x: -158, y: -138.5}
+    - - {x: -47, y: -138.5}
+      - {x: -60, y: -138.5}
+      - {x: -63, y: -141.5}
+      - {x: -63, y: -153.5}
+      - {x: -61, y: -158.5}
+      - {x: -48, y: -158.5}
+      - {x: -43, y: -154.5}
+      - {x: -43, y: -143.5}
+    - - {x: -26, y: -138.5}
+      - {x: -39, y: -138.5}
+      - {x: -42, y: -141.5}
+      - {x: -42, y: -153.5}
+      - {x: -40, y: -158.5}
+      - {x: -27, y: -158.5}
+      - {x: -22, y: -154.5}
+      - {x: -22, y: -143.5}
+    - - {x: 129, y: -134.5}
+      - {x: 114, y: -149.5}
+      - {x: 114, y: -157.5}
+      - {x: 117, y: -158.5}
+      - {x: 137, y: -158.5}
+      - {x: 138, y: -154.5}
+      - {x: 138, y: -137.5}
+      - {x: 135, y: -134.5}
+    - - {x: 152, y: -134.5}
+      - {x: 139, y: -143.5}
+      - {x: 139, y: -158.5}
+      - {x: 191, y: -158.5}
+      - {x: 191, y: -134.5}
+    - - {x: -17, y: -139.5}
+      - {x: -22, y: -141.5}
+      - {x: -22, y: -153.5}
+      - {x: -19, y: -157.5}
+      - {x: -9, y: -157.5}
+      - {x: -4, y: -154.5}
+      - {x: -4, y: -143.5}
+      - {x: -7, y: -139.5}
+    - - {x: 6, y: -140.5}
+      - {x: 2, y: -140.5}
+      - {x: -3, y: -144.5}
+      - {x: -4, y: -146.5}
+      - {x: -4, y: -150.5}
+      - {x: 0, y: -155.5}
+      - {x: 1, y: -156.5}
+      - {x: 6, y: -156.5}
+      - {x: 12, y: -152.5}
+      - {x: 12, y: -146.5}
+      - {x: 8, y: -141.5}
+    - - {x: 100, y: -137.5}
+      - {x: 83, y: -143.5}
+      - {x: 83, y: -155.5}
+      - {x: 112, y: -155.5}
+      - {x: 113, y: -151.5}
+      - {x: 113, y: -138.5}
+      - {x: 110, y: -137.5}
+    - - {x: -129, y: -142.5}
+      - {x: -131, y: -146.5}
+      - {x: -131, y: -150.5}
+      - {x: -129, y: -154.5}
+      - {x: -122, y: -154.5}
+      - {x: -119, y: -153.5}
+      - {x: -119, y: -143.5}
+      - {x: -121, y: -142.5}
+    - - {x: 16, y: -135.5}
+      - {x: 13, y: -138.5}
+      - {x: 13, y: -144.5}
+      - {x: 16, y: -147.5}
+      - {x: 23, y: -147.5}
+      - {x: 25, y: -145.5}
+      - {x: 25, y: -137.5}
+      - {x: 23, y: -135.5}
+    - - {x: 28, y: -135.5}
+      - {x: 26, y: -137.5}
+      - {x: 26, y: -145.5}
+      - {x: 28, y: -147.5}
+      - {x: 36, y: -147.5}
+      - {x: 38, y: -145.5}
+      - {x: 38, y: -137.5}
+      - {x: 36, y: -135.5}
+    - - {x: 41, y: -135.5}
+      - {x: 39, y: -137.5}
+      - {x: 39, y: -146.5}
+      - {x: 43, y: -147.5}
+      - {x: 51, y: -147.5}
+      - {x: 51, y: -137.5}
+      - {x: 49, y: -135.5}
+    - - {x: 55, y: -135.5}
+      - {x: 52, y: -138.5}
+      - {x: 52, y: -144.5}
+      - {x: 55, y: -147.5}
+      - {x: 79, y: -147.5}
+      - {x: 82, y: -144.5}
+      - {x: 82, y: -138.5}
+      - {x: 79, y: -135.5}
+    - - {x: 97, y: -95.5}
+      - {x: -96, y: -95.5}
+      - {x: -97, y: -98.5}
+      - {x: -97, y: -115.5}
+      - {x: -70, y: -128.5}
+      - {x: 95, y: -128.5}
+      - {x: 121, y: -115.5}
+      - {x: 121, y: -102.5}
+      - {x: 106, y: -96.5}
+    - - {x: -4, y: -78.5}
+      - {x: 10, y: -78.5}
+      - {x: 25, y: -79.5}
+      - {x: 37, y: -79.5}
+      - {x: 41, y: -75.5}
+      - {x: 46, y: -77.5}
+      - {x: 50, y: -77.5}
+      - {x: 55, y: -72.5}
+      - {x: 55, y: -68.5}
+      - {x: 50, y: -63.5}
+      - {x: 32, y: -60.5}
+      - {x: -10, y: -57.5}
+      - {x: -13, y: -57.5}
+      - {x: -18, y: -62.5}
+      - {x: -20, y: -58.5}
+      - {x: -25, y: -57.5}
+      - {x: 90, y: -57.5}
+      - {x: 92, y: -55.5}
+      - {x: 92, y: -45.5}
+      - {x: 90, y: -43.5}
+      - {x: 58, y: -43.5}
+      - {x: 67, y: -43.5}
+      - {x: 76, y: -41.5}
+      - {x: 84, y: -42.5}
+      - {x: 94, y: -38.5}
+      - {x: 99, y: -45.5}
+      - {x: 102, y: -43.5}
+      - {x: 109, y: -37.5}
+      - {x: 109, y: -28.5}
+      - {x: 108, y: -25.5}
+      - {x: 18, y: -25.5}
+      - {x: 9, y: -36.5}
+      - {x: 16, y: -41.5}
+      - {x: 21, y: -43.5}
+      - {x: 22, y: -43.5}
+      - {x: 27, y: -42.5}
+      - {x: 37, y: -43.5}
+      - {x: -62, y: -43.5}
+      - {x: -64, y: -42.5}
+      - {x: -64, y: -95.5}
+      - {x: 76, y: -95.5}
+      - {x: 77, y: -93.5}
+      - {x: 77, y: -83.5}
+      - {x: 75, y: -81.5}
+    - - {x: -26, y: -30.5}
+      - {x: -36, y: -25.5}
+      - {x: -78, y: -25.5}
+      - {x: -79, y: -28.5}
+      - {x: -79, y: -42.5}
+      - {x: -74, y: -43.5}
+      - {x: -41, y: -43.5}
+      - {x: -29, y: -41.5}
+      - {x: -26, y: -37.5}
+    - - {x: -25, y: -26.5}
+      - {x: -27, y: -29.5}
+      - {x: -27, y: -40.5}
+      - {x: -20, y: -43.5}
+      - {x: 14, y: -43.5}
+      - {x: 14, y: -26.5}
+    - - {x: 42, y: 7.5}
+      - {x: -20, y: 7.5}
+      - {x: -29, y: 4.5}
+      - {x: -28, y: -7.5}
+      - {x: -27, y: -10.5}
+      - {x: -14, y: -8.5}
+      - {x: -7, y: -10.5}
+      - {x: -58, y: -10.5}
+      - {x: -60, y: -12.5}
+      - {x: -60, y: -22.5}
+      - {x: -58, y: -24.5}
+      - {x: 86, y: -24.5}
+      - {x: 88, y: -22.5}
+      - {x: 88, y: -12.5}
+      - {x: 86, y: -10.5}
+    - - {x: -14, y: 21.5}
+      - {x: -13, y: 22.5}
+      - {x: 4, y: 21.5}
+      - {x: 7, y: 21.5}
+      - {x: 18, y: 22.5}
+      - {x: 83, y: 24.5}
+      - {x: 86, y: 26.5}
+      - {x: 86, y: 47.5}
+      - {x: 57, y: 51.5}
+      - {x: -63, y: 51.5}
+      - {x: -65, y: 47.5}
+      - {x: -65, y: 18.5}
+      - {x: -57, y: 7.5}
+      - {x: 75, y: 7.5}
+      - {x: 77, y: 9.5}
+      - {x: 77, y: 19.5}
+      - {x: 75, y: 21.5}
+    - - {x: -79, y: 74.5}
+      - {x: -79, y: 55.5}
+      - {x: -72, y: 52.5}
+      - {x: 66, y: 52.5}
+      - {x: 109, y: 53.5}
+      - {x: 110, y: 55.5}
+      - {x: 110, y: 70.5}
+      - {x: 97, y: 74.5}
+    - - {x: 45, y: 113.5}
+      - {x: -45, y: 113.5}
+      - {x: -58, y: 105.5}
+      - {x: -58, y: 81.5}
+      - {x: 73, y: 81.5}
+      - {x: 73, y: 93.5}
+      - {x: 72, y: 96.5}
+    - - {x: 76, y: 145.5}
+      - {x: 72, y: 176.5}
+      - {x: 50, y: 180.5}
+      - {x: 21, y: 180.5}
+      - {x: 7, y: 172.5}
+      - {x: 6, y: 169.5}
+      - {x: 5, y: 165.5}
+      - {x: 7, y: 173.5}
+      - {x: 1, y: 180.5}
+      - {x: -58, y: 180.5}
+      - {x: -61, y: 179.5}
+      - {x: -59, y: 163.5}
+      - {x: -56, y: 162.5}
+      - {x: -54, y: 162.5}
+      - {x: -56, y: 162.5}
+      - {x: -63, y: 165.5}
+      - {x: -63, y: 113.5}
+      - {x: 75, y: 113.5}
+      - {x: 76, y: 115.5}
+      - {x: 76, y: 125.5}
+      - {x: 74, y: 127.5}
+    - - {x: 24, y: 194.5}
+      - {x: 42, y: 194.5}
+      - {x: 44, y: 195.5}
+      - {x: 60, y: 197.5}
+      - {x: 67, y: 211.5}
+      - {x: 64, y: 214.5}
+      - {x: 47, y: 215.5}
+      - {x: 45, y: 215.5}
+      - {x: 43, y: 214.5}
+      - {x: 25, y: 215.5}
+      - {x: 70, y: 215.5}
+      - {x: 70, y: 256.5}
+      - {x: 65, y: 260.5}
+      - {x: -30, y: 260.5}
+      - {x: -1, y: 260.5}
+      - {x: 5, y: 262.5}
+      - {x: 35, y: 260.5}
+      - {x: 45, y: 260.5}
+      - {x: 47, y: 274.5}
+      - {x: 39, y: 278.5}
+      - {x: -37, y: 278.5}
+      - {x: -55, y: 262.5}
+      - {x: -58, y: 247.5}
+      - {x: -59, y: 238.5}
+      - {x: -59, y: 215.5}
+      - {x: 21, y: 215.5}
+      - {x: 19, y: 212.5}
+      - {x: 1, y: 215.5}
+      - {x: -54, y: 215.5}
+      - {x: -59, y: 212.5}
+      - {x: -59, y: 208.5}
+      - {x: -55, y: 192.5}
+      - {x: -47, y: 194.5}
+      - {x: -41, y: 198.5}
+      - {x: -37, y: 194.5}
+      - {x: 5, y: 194.5}
+      - {x: 7, y: 196.5}
+      - {x: 21, y: 194.5}
+      - {x: -45, y: 194.5}
+      - {x: -47, y: 192.5}
+      - {x: -47, y: 182.5}
+      - {x: -45, y: 180.5}
+      - {x: 55, y: 180.5}
+      - {x: 57, y: 182.5}
+      - {x: 57, y: 192.5}
+      - {x: 55, y: 194.5}
+    - - {x: -59, y: 292.5}
+      - {x: -61, y: 290.5}
+      - {x: -61, y: 280.5}
+      - {x: -59, y: 278.5}
+      - {x: 68, y: 278.5}
+      - {x: 70, y: 280.5}
+      - {x: 70, y: 290.5}
+      - {x: 68, y: 292.5}
+    - - {x: -27, y: 307.5}
+      - {x: -60, y: 307.5}
+      - {x: -60, y: 292.5}
+      - {x: -22, y: 292.5}
+      - {x: -21, y: 294.5}
+      - {x: -21, y: 304.5}
+    - - {x: -12, y: 320.5}
+      - {x: -17, y: 315.5}
+      - {x: -20, y: 310.5}
+      - {x: -21, y: 307.5}
+      - {x: -21, y: 295.5}
+      - {x: -14, y: 292.5}
+      - {x: 3, y: 292.5}
+      - {x: 3, y: 312.5}
+      - {x: 0, y: 320.5}
+    - - {x: 19, y: 326.5}
+      - {x: 15, y: 326.5}
+      - {x: 5, y: 313.5}
+      - {x: 5, y: 294.5}
+      - {x: 12, y: 292.5}
+      - {x: 28, y: 292.5}
+      - {x: 31, y: 298.5}
+      - {x: 31, y: 310.5}
+      - {x: 29, y: 316.5}
+    - - {x: 43, y: 328.5}
+      - {x: 33, y: 315.5}
+      - {x: 33, y: 295.5}
+      - {x: 41, y: 292.5}
+      - {x: 56, y: 292.5}
+      - {x: 61, y: 299.5}
+      - {x: 61, y: 315.5}
+      - {x: 50, y: 328.5}
+    - - {x: 66, y: 305.5}
+      - {x: 62, y: 301.5}
+      - {x: 62, y: 297.5}
+      - {x: 66, y: 293.5}
+      - {x: 70, y: 293.5}
+      - {x: 74, y: 297.5}
+      - {x: 74, y: 301.5}
+      - {x: 70, y: 305.5}
+    - - {x: -14, y: 359.5}
+      - {x: -43, y: 359.5}
+      - {x: -43, y: 345.5}
+      - {x: -39, y: 343.5}
+      - {x: -31, y: 342.5}
+      - {x: -39, y: 342.5}
+      - {x: -41, y: 340.5}
+      - {x: -41, y: 330.5}
+      - {x: -39, y: 328.5}
+      - {x: 47, y: 328.5}
+      - {x: 49, y: 330.5}
+      - {x: 49, y: 349.5}
+    - - {x: -8, y: 357.5}
+      - {x: -18, y: 357.5}
+      - {x: -21, y: 355.5}
+      - {x: -21, y: 346.5}
+      - {x: -20, y: 342.5}
+      - {x: -8, y: 342.5}
+      - {x: -3, y: 348.5}
+      - {x: -3, y: 351.5}
+    - - {x: 0, y: 357.5}
+      - {x: -3, y: 354.5}
+      - {x: -3, y: 346.5}
+      - {x: -2, y: 342.5}
+      - {x: 15, y: 342.5}
+      - {x: 15, y: 357.5}
+    - - {x: 30, y: 359.5}
+      - {x: 17, y: 355.5}
+      - {x: 17, y: 343.5}
+      - {x: 51, y: 343.5}
+      - {x: 51, y: 358.5}
+      - {x: 49, y: 359.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
