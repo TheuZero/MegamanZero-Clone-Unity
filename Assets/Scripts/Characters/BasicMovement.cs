@@ -2,27 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Movetest : MonoBehaviour {
+public class BasicMovement : MonoBehaviour {
 
-	
+#region PUBLIC_VAR
+	#endregion
 	#region PRIVATE_VAR
 	[SerializeField] private Transform attackPoint;
-	[SerializeField] private float attackRadius;
 	[SerializeField] private float movementSpeed = 7;
-	[SerializeField] private int damage;
 	[SerializeField] private float movement;
-	[SerializeField] private bool damageMade;
-	
-	private Vector3 jump;
+
 	#endregion
 
 	//gameObjects
 	Animator anim;
-	GameObject damageMaker;
 	Rigidbody2D rb;
 	BoxCollider2D collider;
 	GameObject bullet;
-	Animation animation;
 	
     //anim manipulation
     int runHash = Animator.StringToHash("Running");
@@ -37,16 +32,15 @@ public class Movetest : MonoBehaviour {
 
 	public float jumpTimer = 0f;
 	public float maxJumpTimer = 0.15f;
-
-	public bool haveDoubleJump;
-	public bool DJAvaible;
 	bool isJumping;
 
-	//dashing
-	public float dashMultiplier = 1.05f;
-	public bool isDashing;
-	public bool isDashJump;
-
+	//wall crawl
+	public float jumpKick = 10f;
+	public float initialHorizontalJumpKick = 5f;
+	public float horizontalJumpKick = 5f;
+	public float jkTimer;
+	public float jkMaxTimer = 0.4f;
+	public float directionJk;
     //raycast
 	public float distance = 0.02f;
 	public LayerMask groundLayer;
@@ -62,16 +56,14 @@ public class Movetest : MonoBehaviour {
 	Vector3 center;
 	Vector3 min, max, size;
 
-	//teste
-	SpriteRenderer sp;
-
+	//Test another script
+	
+	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody2D>();
 		anim = GetComponent<Animator>();
-		damageMaker = GetComponent<GameObject>();
-		jump = new Vector2(0.0f, 2.0f);
 		collider = GetComponent<BoxCollider2D> ();
-		sp = GetComponent<SpriteRenderer>();
+		
 	}
 	/* void OutputData(){
 
@@ -82,28 +74,26 @@ public class Movetest : MonoBehaviour {
 	}*/
 
 	public void imovement(AnimatorStateInfo stateInfo){
-		// Check for axis horizontal
 		movement = Input.GetAxisRaw("Horizontal") * Time.deltaTime * movementSpeed;
         
-        // Check animation
-        // if movement is not equal to 0, means player pressed a or either d, so stop idling, else stop running
-        if (movement != 0 && stateInfo.IsTag("Base") == true)
+        if (movement != 0 && stateInfo.IsTag("Base") && !anim.GetBool("isDashJumping"))
 		{
 			anim.SetBool("isRunning", true);
 			anim.SetBool("isIdle", false);
-			// if movement float is more than 0 means that it moves to right, so turn player to right and move it
-			if(isDashJump){
-			dashJump();
-		}
+
 			if (movement > 0)
 			{
-				transform.localScale = new Vector3(System.Math.Abs(transform.localScale.x),transform.localScale.y,1);
+				//if(!stateInfo.IsName("WallJump")){
+					transform.localScale = new Vector3(System.Math.Abs(transform.localScale.x),transform.localScale.y,1);
+				//}
 				transform.Translate(transform.right * movement);
 				anim.SetFloat("previousTime", stateInfo.normalizedTime);
 			}
 			else if (movement < 0)
 			{
-				transform.localScale = new Vector3(-System.Math.Abs(transform.localScale.x), transform.localScale.y,1);
+				//if(!stateInfo.IsName("WallJump")){
+					transform.localScale = new Vector3(-System.Math.Abs(transform.localScale.x),transform.localScale.y,1);
+				//}
 				transform.Translate(transform.right * movement);
 				anim.SetFloat("previousTime", stateInfo.normalizedTime);
 			}
@@ -128,18 +118,15 @@ public class Movetest : MonoBehaviour {
 		if(rb.velocity.y < -30){
 			rb.velocity = new Vector2(0,-30);
 		}
-		if (Input.GetButton("Jump") && stateInfo.IsTag("Base") && !stateInfo.IsName("RunAttack"))
+		if (Input.GetButton("Jump"))
         {
             newJump(stateInfo);
+			wallJump(stateInfo);
         }
 		
-		if(Input.GetButton("Dash") && stateInfo.IsTag("Base")){
+		/*if(Input.GetButton("Dash") && stateInfo.IsTag("Base")){
 			dashing(stateInfo);
-		}
-		
-		if(isGrounded){
-			isDashJump = false;
-		}
+		}*/
 	}
 
     void Update()
@@ -147,42 +134,45 @@ public class Movetest : MonoBehaviour {
         AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
 		animationTimeCalc(stateInfo);
 		groundDetection();
-		
+
+		//separe detection from gravity
+		if(!isGrounded && !anim.GetBool("isJumping")){
+			wallCrawl(stateInfo);
+		}
+		//separe the detection from gravity change
+		if(anim.GetBool("isWallCrawling")){
+			wallCrawl(stateInfo);
+		}else{
+			anim.SetBool("isWallCrawling", false);
+		}
+
 		//StartCoroutine("previousTimeCalc", stateInfo);
-		 if (Input.GetButtonDown("Jump") && stateInfo.IsTag("Base") && !stateInfo.IsName("RunAttack"))
-        {
+		 if (Input.GetButtonDown("Jump")){
             ijump(stateInfo);
+			iWallJump();
         }
 		if (Input.GetButtonUp("Jump")){
 			jumpTimer = maxJumpTimer;
 			isJumping = false;
+			jkTimer = jkMaxTimer;
+			anim.SetBool("isJumpKickingTurn", false);
 		}
 
-        if (Input.GetButtonDown("Attack1"))
-        {
+        if (Input.GetButtonDown("Attack1")){
             anim.ResetTrigger("Attack");
             anim.SetTrigger("Attack");
         }
-        if (Input.GetButtonDown("Attack2") && stateInfo.IsTag("Base"))
-        {
+        if (Input.GetButtonDown("Attack2") && stateInfo.IsTag("Base")){
             shooting();
         }
-		else
-		{
+		else{
 			anim.SetBool("isShooting", false);
 		}
-		if(Input.GetButtonDown("Dash") && stateInfo.IsTag("Base"))
-		{
-			iDash();
-		}else if(Input.GetButtonUp("Dash")){
-			isDashing = false;
-			anim.SetBool("isDashing", false);
-		}
 
+		jumpKickState(stateInfo);
+		resetJump();
         jumpVelocity = rb.velocity.y;
         anim.SetFloat("jumpVelocity", jumpVelocity);
-		anim.SetBool("isJumping", isJumping);
-
     }
 	
 	/*this method will get the current time from the curr animation and pass to mecanim.
@@ -202,39 +192,25 @@ public class Movetest : MonoBehaviour {
 	}
 
     public void ijump(AnimatorStateInfo stateInfo){
-			if(isGrounded){
+			if(isGrounded && !anim.GetBool("isDashJumping")  && stateInfo.IsTag("Base") && !anim.GetBool("isWallCrawling")){
 			transform.Translate((Vector2.up * jumpForce) * Time.deltaTime);
-			isJumping = true;
+			anim.SetBool("isJumping", true);
 			}
-	}
-	public void newJump(AnimatorStateInfo stateInfo){		
-		jumpTimer += Time.deltaTime;
-
-		if(jumpTimer <= maxJumpTimer && isJumping){
-			rb.velocity = new Vector2(rb.velocity.x, 0);
-			transform.Translate((Vector2.up * jumpForce) * Time.deltaTime);
-		}else{
-			isJumping = false;
-		}
-	}
-	public void iDash(){
-		if(isGrounded){
-		transform.Translate(transform.right * (movement * dashMultiplier));
-		isDashing = true;
-		anim.SetBool("isDashing", isDashing);
-		}
-	}
-
-	public void dashing(AnimatorStateInfo stateInfo){
-		if(anim.GetBool("isDashing") && isGrounded){
-			transform.Translate(transform.right * (movement * dashMultiplier));
-			}
-		if(isJumping || !isGrounded){
+			/*if(anim.GetBool("isDashing")){
 				isDashJump = true;
-		}
+			}*/
 	}
-	public void dashJump(){
-		transform.Translate(transform.right * (movement * dashMultiplier));
+	public void newJump(AnimatorStateInfo stateInfo){
+		if(stateInfo.IsTag("Base") && !stateInfo.IsName("RunAttack") && !anim.GetBool("isDashJumping") && !anim.GetBool("isWallCrawling")){
+			jumpTimer += Time.deltaTime;
+			
+			if(jumpTimer <= maxJumpTimer && anim.GetBool("isJumping")){
+				rb.velocity = new Vector2(rb.velocity.x, 0);
+				transform.Translate((Vector2.up * jumpForce) * Time.deltaTime);
+			}else{
+			anim.SetBool("isJumping", false);
+			}
+		}
 	}
 
 	public void groundDetection(){
@@ -252,6 +228,7 @@ public class Movetest : MonoBehaviour {
 			position = new Vector3 (max.x - (size.x / (rayNumbers - 1)) * (i), min.y, 0);
 			hit = Physics2D.Raycast (position, direction, distance, groundLayer);
 			Debug.DrawRay (position, Vector3.down/10, Color.green);
+
 			if (hit.collider != null) {
 					anim.SetBool("isGrounded", true);
 					i = 3;
@@ -263,29 +240,6 @@ public class Movetest : MonoBehaviour {
 				}
 			}
 		}
-	
-
-	public void attacking (){
-		//check if the attackPoint/damagemaker become acive
-		if (damageMaker == true && damageMade == false) {
-			damageMade = true;
-			Collider2D[] hittedObjects = Physics2D.OverlapCircleAll (attackPoint.position, attackRadius);
-			if (hittedObjects.Length > 0) {
-				for (int i = 0; i < hittedObjects.Length; i++) {
-					if (hittedObjects [i].gameObject != gameObject) {
-						//EnemyMovement enemy = hittedObjects[i].gameObject.GetComponent<EnemyMovement>();
-						/*if (enemy != null)
-                        {
-                            enemy.health -= damage;
-                        }*/
-					}
-				}
-			}
-		} else if (attackPoint == false && damageMade == true) {
-			damageMade = false;
-		}
-
-	}
 
 	public void shooting(){
 		bullet = ObjectPool.SharedInstance.GetPooledObject ();
@@ -309,69 +263,95 @@ public class Movetest : MonoBehaviour {
             bullet.SetActive(true);
         }
 	}
+
+	public void wallCrawl(AnimatorStateInfo stateInfo){
+		max = collider.bounds.max;
+		min = collider.bounds.min;
+		size = collider.bounds.size;
+
+		if(movement != 0 && (stateInfo.IsName("Jump") || stateInfo.IsName("Falling") || stateInfo.IsName("WallCrawl") || stateInfo.IsName("JumpAttack"))){
+			for (int i = 0; i < 3; i++) {
+				Vector2 position = new Vector2(max.x, max.y - (size.y / 4) * (i));
+				if (transform.localScale.x > 0){
+				hit = Physics2D.Raycast (position, Vector2.right * Mathf.Sign(transform.localScale.x), distance, groundLayer);
+				Debug.DrawRay (position, Vector3.right * Mathf.Sign(transform.localScale.x), Color.green);
+					if(hit.collider != null){
+						rb.velocity = new Vector2(rb.velocity.x, -1);
+						anim.SetBool("isWallCrawling", true);
+						anim.SetBool("isJumping", false);
+						jkTimer = 0;
+						isJumping = false;
+					}else{
+						anim.SetBool("isWallCrawling", false);
+					}
+				}
+			else if(transform.localScale.x < 0){
+				position = new Vector2(min.x, max.y - (size.y / 4) * (i));
+				hit = Physics2D.Raycast (position, Vector2.right * Mathf.Sign(transform.localScale.x), distance, groundLayer);
+				Debug.DrawRay (position, Vector3.right * Mathf.Sign(transform.localScale.x), Color.green);
+
+				if(hit.collider != null){
+					rb.velocity = new Vector2(rb.velocity.x, -1);
+					anim.SetBool("isWallCrawling", true);
+					anim.SetBool("isJumping", false);
+					jkTimer = 0;
+					isJumping = false;
+					}else{
+						anim.SetBool("isWallCrawling", false);
+					}
+				}
+			}
+		}else{
+			anim.SetBool("isWallCrawling", false);
+		}
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	/*void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Ground")
-        {
-            //If the GameObject has the same tag as specified, output this message in the console
-            isGrounded = true;
-        }
-
-    }
-
-
-    void OnCollisionExit(Collision collision)
-    {
-        if (collision.gameObject.tag == "Ground")
-        {
-            //If the GameObject has the same tag as specified, output this message in the console
-            isGrounded = false;
-        }
-
-    }*/
-	/* Specify if 2d or not
-	void OnCollisionEnter2D(Collision2D collisionInfo)
-	{
-		print("Detected collision between " + gameObject.name + " and " + collisionInfo.collider.name);
-		print("There are " + collisionInfo.contacts.Length + " point(s) of contacts");
-		print("Their relative velocity is " + collisionInfo.relativeVelocity);
-		Debug.Log("yay");
-	}
-	void OnCollisionStay2D(Collision2D collisionInfo)
-	{
-		print(gameObject.name + " and " + collisionInfo.collider.name + " are still colliding");
+	public void iWallJump(){
+		if(anim.GetBool("isWallCrawling")){
+			anim.SetBool("isJumpKicking", true);
+			transform.Translate((Vector2.up * jumpKick) * Time.deltaTime);
+			transform.Translate((Vector2.right * horizontalJumpKick) * Time.deltaTime);
+			rb.velocity = new Vector2(rb.velocity.x,0);
+			directionJk = Mathf.Sign(transform.localScale.x);
+		}
 	}
 
-	void OnCollisionExit2D(Collision2D collisionInfo)
-	{
-		print(gameObject.name + " and " + collisionInfo.collider.name + " are no longer colliding");
-	}*/
-	// Update is called once per frame
+	public void wallJump(AnimatorStateInfo stateInfo){
+		if(anim.GetBool("isJumpKicking")){
+			anim.SetBool("isJumpKicking", true);
+			jkTimer += Time.deltaTime;
 
+			if(jkTimer <= jkMaxTimer && anim.GetBool("isJumpKicking")){
+				transform.Translate((Vector2.up * jumpKick) * Time.deltaTime);
+				rb.velocity = new Vector2(rb.velocity.x,0);
+			}else{
+				anim.SetBool("isJumpKicking", false);
+				anim.SetBool("isJumpKickingTurn", false);
+			}
+			if(jkTimer <= jkMaxTimer/3 && anim.GetBool("isJumpKicking") && !anim.GetBool("isJumpKickingTurn")){
+				transform.Translate((Vector2.right * horizontalJumpKick * Mathf.Sign(-directionJk)) * Time.deltaTime);
+				rb.velocity = new Vector2(rb.velocity.x,0);
+			}
+			if(directionJk != Input.GetAxisRaw("Horizontal") && Input.GetAxisRaw("Horizontal") != 0){
+				anim.SetBool("isJumpKickingTurn", true);
+			}
+		}
+	}
+
+	public void jumpKickState(AnimatorStateInfo stateInfo){
+		if(anim.GetBool("isJumpKicking")){
+			
+		}
+	}
+
+	public void resetJump(){
+		if(jumpTimer >= maxJumpTimer){
+			anim.SetBool("isJumping", false);
+		}
+		if(jkTimer >= maxJumpTimer){
+			anim.SetBool("isJumpKicking", false);
+			anim.SetBool("isJumpKickingTurn", false);
+		}
+	}
+
+}

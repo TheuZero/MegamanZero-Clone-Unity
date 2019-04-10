@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: bc3e8b5d765609c409947a4ae50a4fd9
+timeCreated: 1553015745
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmz1xbot_0
+    21300002: mmz1xbot_1
+    21300004: mmz1xbot_2
+    21300006: mmz1xbot_3
+    21300008: mmz1xbot_4
+    21300010: mmz1xbot_5
+    21300012: mmz1xbot_6
+    21300014: mmz1xbot_7
+    21300016: mmz1xbot_8
+    21300018: mmz1xbot_9
+    21300020: mmz1xbot_10
+    21300022: mmz1xbot_11
+    21300024: mmz1xbot_12
+    21300026: mmz1xbot_13
+    21300028: mmz1xbot_14
+    21300030: mmz1xbot_15
+    21300032: mmz1xbot_16
+    21300034: mmz1xbot_17
+    21300036: mmz1xbot_18
+    21300038: mmz1xbot_19
+    21300040: mmz1xbot_20
+    21300042: mmz1xbot_21
+    21300044: mmz1xbot_22
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmz1xbot_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 158
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.40468544, y: 0.50731987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 158
+        width: 31
+        height: 34
+      alignment: 9
+      pivot: {x: 0.39999267, y: 0.49404594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 159
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35904497, y: 0.4771317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 158
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.34008005, y: 0.4759258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 157
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.34430015, y: 0.47215503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 114
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 113
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 60
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 66
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 74
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 59
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmz1xbot_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
